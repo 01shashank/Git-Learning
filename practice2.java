@@ -5,7 +5,9 @@ public class practice2 {
         System.out.println("this is the result after subctration of two nos",(a-b));
         System.out.println("This is the result after multiplication of two nos",(a*b));
 
-        System.out.println("Hii this is shashanks 4th commit");
+        System.out.printl("Hii this is shashanks 4th commit");
+
+        System.out.println("This is shashanks 5th commit");
     }
     
 }
