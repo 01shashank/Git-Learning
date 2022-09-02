@@ -8,6 +8,8 @@ public class practice2 {
         System.out.printl("Hii this is shashanks 4th commit");
 
         System.out.println("This is shashanks 5th commit");
+
+        System.out.println("this is dev commit");
     }
     
 }
